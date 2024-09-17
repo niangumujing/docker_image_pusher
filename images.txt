@@ -1,1 +1,1 @@
-adoptopenjdk/openjdk17:alpine
+python:3.11-alpine
