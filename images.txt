@@ -1,1 +1,1 @@
-python:3.11-alpine
+eclipse-temurin:17-jdk-alpine
