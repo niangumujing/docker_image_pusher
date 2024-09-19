@@ -1,1 +1,1 @@
-seata-1.5.2
+seata-server:1.5.2
