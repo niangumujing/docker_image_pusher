@@ -1,3 +1,4 @@
 elasticsearch:7.12.1
 kibana:7.12.1
 mysql
+redis
