@@ -1,1 +1,2 @@
-docker-osx:ventura
+node:lts-alpine
+nginx:stable
