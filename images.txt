@@ -1,2 +1,1 @@
-node:lts-alpine
-nginx:stable
+ghcr.io/dockur/macos:1.15
