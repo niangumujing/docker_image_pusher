@@ -1,1 +1,2 @@
-ghcr.io/dockur/macos:1.15
+dockurr/macos:13
+
