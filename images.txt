@@ -1,2 +1,1 @@
-node:20.13.1-alpine
-mongodb
+mongo
