@@ -1,1 +1,1 @@
-redisinsight
+redis/redisinsight
