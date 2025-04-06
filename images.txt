@@ -1,2 +1,2 @@
-
-mysql:5.7
+nacos/nacos-server
+apache/seata-server
