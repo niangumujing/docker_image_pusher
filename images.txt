@@ -1,1 +1,1 @@
-mcr.microsoft.com/openjdk/jre:17-alpine
+eclipse-temurin:17-jre-jammy
