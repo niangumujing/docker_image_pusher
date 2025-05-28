@@ -1,1 +1,1 @@
-dockurr/macos
+mcr.microsoft.com/openjdk/jre:17-alpine
