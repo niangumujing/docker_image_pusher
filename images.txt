@@ -1,1 +1,2 @@
-xhofe/alist
+minio/minio
+--platform=arm64
