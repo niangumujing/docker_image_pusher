@@ -1,2 +1,2 @@
 minio/minio
---platform=arm64
+--platform=linux/arm64
